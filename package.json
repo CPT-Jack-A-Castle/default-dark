@@ -3,8 +3,8 @@
     "title": "Default Dark - Base16",
     "description": "Completely un-edited Dark from ocean from Base16.",
     "homepage": "https://github.com/skjnldsv/default-dark",
-    "version": "1.5.0",
-    "author": "Skjnldsv (https://github.com/skjnldsv), Anthony Romaniello"
+    "version": "1.6.0",
+    "author": "Skjnldsv (https://github.com/skjnldsv), Anthony Romaniello",
     "license": "MIT",
     "theme": {
         "file": "theme.less",
