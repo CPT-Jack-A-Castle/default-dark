@@ -3,7 +3,7 @@
     "title": "Default Dark - Base16",
     "description": "Completely un-edited Dark from ocean from Base16.",
     "homepage": "https://github.com/skjnldsv/default-dark",
-    "version": "1.8.0",
+    "version": "1.9.0",
     "author": {
         "name": "Skjnldsv, Anthony Romaniello",
         "url": "https://github.com/skjnldsv"
@@ -14,5 +14,5 @@
         "dark": true,
         "addModeClass": true
     },
-    "keywords": ["theme","base16","dark","default","text","fork","extension","css"]
+    "keywords": ["theme","base16","dark","default","text","fork","css"]
 }
