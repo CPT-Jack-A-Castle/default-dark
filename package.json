@@ -1,10 +1,10 @@
 {
-    "name": "true-ocean",
-    "title": "True Ocean - Base16",
-    "description": "Completely un-edited Ocean from Base16. No modifications whatsoever.",
-    "homepage": "https://github.com/anthonyrom/true-ocean",
+    "name": "default-dark",
+    "title": "Default Dark - Base16",
+    "description": "Completely un-edited Dark from ocean from Base16.",
+    "homepage": "https://github.com/skjnldsv/default-dark",
     "version": "1.2.0",
-    "author": "Anthony Romaniello <aromaniello70@gmail.com> (http://awro.xyz)",
+    "author": "Skjnldsv",
     "license": "MIT",
     "theme": {
         "file": "theme.less",
