@@ -4,7 +4,7 @@
     "description": "Completely un-edited Dark from ocean from Base16.",
     "homepage": "https://github.com/skjnldsv/default-dark",
     "version": "1.5.0",
-    "author": "Skjnldsv (https://github.com/skjnldsv), Anthony Romaniello <aromaniello70@gmail.com>",
+    "author": "Skjnldsv (https://github.com/skjnldsv), Anthony Romaniello"
     "license": "MIT",
     "theme": {
         "file": "theme.less",
