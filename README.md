@@ -1,4 +1,4 @@
-Defaukt Dark (Base16) Theme for Brackets
+Default Dark (Base16) Theme for Brackets
 ============================
 
 Attempting to be as close to [Default Dark](http://chriskempson.github.io/base16/#default) as possible.
